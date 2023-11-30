@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestSpaceX</string>
+    <string name="imageship">imageShip</string>
+    <string name="id">Id:</string>
+    <string name="name">Name:</string>
+    <string name="reated_in">Сreated in</string>
+</resources>
